@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ombuilds/NeetCode-250/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ombuilds/NeetCode-250/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Linked List
 |  |
@@ -26,9 +28,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
