@@ -1,34 +1,17 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        int sum=0;
-        for(int num:nums){
-            sum+=num;
-        }
-
-        if(sum%2!=0){
-            return false;
-        }else{
-            return subsetSum(nums, sum/2);
-        }
-    }
-
-    public boolean subsetSum(int[] nums, int sum){
-        int n=nums.length;
-         
-        boolean dp[][]= new boolean[n+1][sum+1];
-
-        for(int i=0;i<=n;i++) dp[i][0]=true;
-        for(int j=0;j<=sum;j++) dp[0][j]=false;
-
-        for(int i=1;i<=n;i++){
-            for(int j=1;j<=sum;j++){
-                if(nums[i-1]<=j){
-                    dp[i][j]= dp[i-1][j] || dp[i-1][j-nums[i-1]];
-                }else{
-                    dp[i][j]=dp[i-1][j];
-                }
+        int totalSum = 0;
+        for (int num : nums) totalSum += num;
+        if (totalSum % 2 != 0) return false;
+        int targetSum = totalSum / 2;
+        boolean[] dp = new boolean[targetSum + 1];
+        dp[0] = true;
+        for (int num : nums) {
+            for (int currSum = targetSum; currSum >= num; currSum--) {
+                dp[currSum] = dp[currSum] || dp[currSum - num];
+                if (dp[targetSum]) return true;
             }
         }
-        return dp[n][sum];
+        return dp[targetSum];
     }
 }
