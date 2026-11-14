@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ombuilds/NeetCode-250/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/ombuilds/NeetCode-250/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/3364-minimum-positive-sum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ombuilds/NeetCode-250/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ombuilds/NeetCode-250/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
