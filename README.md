@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ombuilds/NeetCode-250/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1572-matrix-diagonal-sum](https://github.com/ombuilds/NeetCode-250/tree/master/1572-matrix-diagonal-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ombuilds/NeetCode-250/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/ombuilds/NeetCode-250/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
