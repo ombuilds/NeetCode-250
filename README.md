@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ombuilds/NeetCode-250/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ombuilds/NeetCode-250/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ombuilds/NeetCode-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/ombuilds/NeetCode-250/tree/master/0217-contains-duplicate) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ombuilds/NeetCode-250/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ombuilds/NeetCode-250/tree/master/1572-matrix-diagonal-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ombuilds/NeetCode-250/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ombuilds/NeetCode-250/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
