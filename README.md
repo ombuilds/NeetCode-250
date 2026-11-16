@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ombuilds/NeetCode-250/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/ombuilds/NeetCode-250/tree/master/0344-reverse-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ombuilds/NeetCode-250/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ombuilds/NeetCode-250/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ombuilds/NeetCode-250/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
