@@ -13,8 +13,8 @@ class Solution {
             dp[i][0]=0;
         }
 
-        for(int j=0;j<dp[0].length;j++){
-            dp[0][j]=Integer.MAX_VALUE;
+        for(int j=1;j<dp[0].length;j++){
+            dp[0][j]=n+1;
         }
 
         for(int i=1;i<squares.length+1;i++){
