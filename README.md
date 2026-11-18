@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/1143-longest-common-subsequence) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ombuilds/NeetCode-250/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/ombuilds/NeetCode-250/tree/master/0344-reverse-string) |
+| [1143-longest-common-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/1143-longest-common-subsequence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ombuilds/NeetCode-250/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/ombuilds/NeetCode-250/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ombuilds/NeetCode-250/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
