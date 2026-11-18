@@ -75,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ombuilds/NeetCode-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ombuilds/NeetCode-250/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/ombuilds/NeetCode-250/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/1137-n-th-tribonacci-number) |
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/ombuilds/NeetCode-250/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ombuilds/NeetCode-250/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/ombuilds/NeetCode-250/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ombuilds/NeetCode-250/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ombuilds/NeetCode-250/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ombuilds/NeetCode-250/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
