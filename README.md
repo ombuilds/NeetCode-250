@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ombuilds/NeetCode-250/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/ombuilds/NeetCode-250/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ombuilds/NeetCode-250/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ombuilds/NeetCode-250/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ombuilds/NeetCode-250/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ombuilds/NeetCode-250/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/0300-longest-increasing-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ombuilds/NeetCode-250/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/ombuilds/NeetCode-250/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ombuilds/NeetCode-250/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/0509-fibonacci-number) |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
