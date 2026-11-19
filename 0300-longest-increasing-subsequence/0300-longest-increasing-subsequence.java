@@ -1,50 +1,34 @@
 class Solution {
-    public int lengthOfLIS(int[] nums1) {
-        HashSet<Integer> set=new HashSet<>();
-        for(int i=0;i<nums1.length;i++){
-            set.add(nums1[i]);
-        }
+    public int lengthOfLIS(int[] nums) {
+        List<Integer> res = new ArrayList<>();
 
-        int[] nums2=new int[set.size()];
-
-        int i=0;
-        for(int x:set){
-            nums2[i]=x;
-            i++;
-        }
-
-        Arrays.sort(nums2);
-
-        return lcs(nums1,nums2);
-    }
-
-    public static int lcs(int[] nums1, int[] nums2){
-        int n=nums1.length;
-        int m=nums2.length;
-
-        int[][] dp=new int[n+1][m+1];
-
-        for(int i=0;i<n+1;i++){
-            dp[i][0]=0;
-        }
-
-        for(int j=0;j<m+1;j++){
-            dp[0][j]=0;
-        }
-
-        for(int i=1;i<n+1;i++){
-            for(int j=1;j<m+1;j++){
-                if(nums1[i-1]==nums2[j-1]){
-                    dp[i][j]= dp[i-1][j-1]+1;
-                }else{
-                    int ans1=dp[i-1][j];
-                    int ans2=dp[i][j-1];
-
-                    dp[i][j]=Math.max(ans1,ans2);
-                }
+        for (int n : nums) {
+            if (res.isEmpty() || res.get(res.size() - 1) < n) {
+                res.add(n);
+            } else {
+                int idx = binarySearch(res, n);
+                res.set(idx, n);
             }
         }
 
-        return dp[n][m];
+        return res.size();        
     }
+
+    private int binarySearch(List<Integer> arr, int target) {
+        int left = 0;
+        int right = arr.size() - 1;
+
+        while (left <= right) {
+            int mid = (left + right) / 2;
+            if (arr.get(mid) == target) {
+                return mid;
+            } else if (arr.get(mid) > target) {
+                right = mid - 1;
+            } else {
+                left = mid + 1;
+            }
+        }
+
+        return left;
+    }    
 }
