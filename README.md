@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ombuilds/NeetCode-250/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0518-coin-change-ii) |
+| [0860-lemonade-change](https://github.com/ombuilds/NeetCode-250/tree/master/0860-lemonade-change) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/ombuilds/NeetCode-250/tree/master/1572-matrix-diagonal-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/ombuilds/NeetCode-250/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
