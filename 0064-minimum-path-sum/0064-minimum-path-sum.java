@@ -20,10 +20,9 @@ class Solution {
 
         for(int i=1;i<m;i++){
             for(int j=1;j<n;j++){
-                int up=grid[i][j]+dp[i-1][j];
-                int left=grid[i][j]+dp[i][j-1];
+                
 
-                dp[i][j]=Math.min(up,left);
+                dp[i][j]=grid[i][j]+Math.min(dp[i-1][j],dp[i][j-1]);
             }
         }
 
