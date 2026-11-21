@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ombuilds/NeetCode-250/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ombuilds/NeetCode-250/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ombuilds/NeetCode-250/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ombuilds/NeetCode-250/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ombuilds/NeetCode-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ombuilds/NeetCode-250/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ombuilds/NeetCode-250/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/ombuilds/NeetCode-250/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/0509-fibonacci-number) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ombuilds/NeetCode-250/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
