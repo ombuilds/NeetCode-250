@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0518-coin-change-ii) |
 | [0860-lemonade-change](https://github.com/ombuilds/NeetCode-250/tree/master/0860-lemonade-change) |
+| [0931-minimum-falling-path-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0931-minimum-falling-path-sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/ombuilds/NeetCode-250/tree/master/1572-matrix-diagonal-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/ombuilds/NeetCode-250/tree/master/0647-palindromic-substrings) |
+| [0931-minimum-falling-path-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/1143-longest-common-subsequence) |
 ## Knapsack Problem
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ombuilds/NeetCode-250/tree/master/0074-search-a-2d-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0931-minimum-falling-path-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/ombuilds/NeetCode-250/tree/master/1572-matrix-diagonal-sum) |
 ## Backtracking
 |  |
