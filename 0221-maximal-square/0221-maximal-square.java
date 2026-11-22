@@ -3,8 +3,7 @@ class Solution {
         int m=matrix.length;
         int n=matrix[0].length;
 
-        if(m==0)return 0;
-        if(n==0)return 0;
+        
         int best=0;
         int[][]dp= new int[m][n];
 
