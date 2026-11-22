@@ -1,10 +1,12 @@
 class Solution {
     public boolean checkString(String s) {
-        HashSet<Character> set=new HashSet<>();
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)=='a' && !set.contains('b')) set.add('a');
-            else if(s.charAt(i)=='b') set.add('b');
-            else if(s.charAt(i)=='a' && set.contains('b')) return false;
+        int n = s.length();
+
+        for (int i = 0; i < n; i++) {
+            if (s.charAt(i) != 'b') continue;
+            for (int j = i + 1; j < n; j++) {
+                if (s.charAt(j) == 'a') return false;
+            }
         }
 
         return true;
