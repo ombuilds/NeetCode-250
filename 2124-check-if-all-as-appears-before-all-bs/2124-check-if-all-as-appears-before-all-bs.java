@@ -3,9 +3,11 @@ class Solution {
         boolean seenB=false;
         for(char ch:s.toCharArray()){
             if(ch=='b') seenB=true;
-            else if(seenB) return false;
+            else if(seenB){
+                return false;
+            }
         }
-
         return true;
+
     }
 }
