@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ombuilds/NeetCode-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ombuilds/NeetCode-250/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ombuilds/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ombuilds/NeetCode-250/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/ombuilds/NeetCode-250/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/ombuilds/NeetCode-250/tree/master/0283-move-zeroes) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ombuilds/NeetCode-250/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/ombuilds/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ombuilds/NeetCode-250/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ombuilds/NeetCode-250/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ombuilds/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/ombuilds/NeetCode-250/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ombuilds/NeetCode-250/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ombuilds/NeetCode-250/tree/master/0547-number-of-provinces) |
@@ -210,10 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ombuilds/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ombuilds/NeetCode-250/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ombuilds/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ombuilds/NeetCode-250/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
