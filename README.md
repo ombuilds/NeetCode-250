@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/ombuilds/NeetCode-250/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ombuilds/NeetCode-250/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/ombuilds/NeetCode-250/tree/master/0547-number-of-provinces) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -206,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ombuilds/NeetCode-250/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ombuilds/NeetCode-250/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ombuilds/NeetCode-250/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ombuilds/NeetCode-250/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
