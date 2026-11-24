@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ombuilds/NeetCode-250/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ombuilds/NeetCode-250/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/ombuilds/NeetCode-250/tree/master/0860-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ombuilds/NeetCode-250/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ombuilds/NeetCode-250/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ombuilds/NeetCode-250/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ombuilds/NeetCode-250/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ombuilds/NeetCode-250/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ombuilds/NeetCode-250/tree/master/0560-subarray-sum-equals-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
