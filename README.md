@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ombuilds/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ombuilds/NeetCode-250/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/ombuilds/NeetCode-250/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/ombuilds/NeetCode-250/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ombuilds/NeetCode-250/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ombuilds/NeetCode-250/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ombuilds/NeetCode-250/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ombuilds/NeetCode-250/tree/master/0560-subarray-sum-equals-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
