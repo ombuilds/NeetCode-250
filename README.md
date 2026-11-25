@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ombuilds/NeetCode-250/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/ombuilds/NeetCode-250/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/ombuilds/NeetCode-250/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ombuilds/NeetCode-250/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/ombuilds/NeetCode-250/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/ombuilds/NeetCode-250/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/1143-longest-common-subsequence) |
@@ -250,4 +252,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
