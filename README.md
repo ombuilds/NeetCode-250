@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ombuilds/NeetCode-250/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ombuilds/NeetCode-250/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [3360-stone-removal-game](https://github.com/ombuilds/NeetCode-250/tree/master/3360-stone-removal-game) |
 ## Memoization
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ombuilds/NeetCode-250/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/ombuilds/NeetCode-250/tree/master/3360-stone-removal-game) |
 ## Breadth-First Search
 |  |
 | ------- |
