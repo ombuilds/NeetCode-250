@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ombuilds/NeetCode-250/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/ombuilds/NeetCode-250/tree/master/1572-matrix-diagonal-sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/ombuilds/NeetCode-250/tree/master/1710-maximum-units-on-a-truck) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/ombuilds/NeetCode-250/tree/master/0846-hand-of-straights) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1710-maximum-units-on-a-truck](https://github.com/ombuilds/NeetCode-250/tree/master/1710-maximum-units-on-a-truck) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ombuilds/NeetCode-250/tree/master/0605-can-place-flowers) |
 | [0846-hand-of-straights](https://github.com/ombuilds/NeetCode-250/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ombuilds/NeetCode-250/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/ombuilds/NeetCode-250/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
 | ------- |
