@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ombuilds/NeetCode-250/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ombuilds/NeetCode-250/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/ombuilds/NeetCode-250/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/ombuilds/NeetCode-250/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ombuilds/NeetCode-250/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/ombuilds/NeetCode-250/tree/master/0976-largest-perimeter-triangle) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/ombuilds/NeetCode-250/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/ombuilds/NeetCode-250/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ombuilds/NeetCode-250/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0931-minimum-falling-path-sum) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ombuilds/NeetCode-250/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ombuilds/NeetCode-250/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/ombuilds/NeetCode-250/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/1143-longest-common-subsequence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ombuilds/NeetCode-250/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ombuilds/NeetCode-250/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -212,10 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ombuilds/NeetCode-250/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ombuilds/NeetCode-250/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ombuilds/NeetCode-250/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ombuilds/NeetCode-250/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
 | ------- |
