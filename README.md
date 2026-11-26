@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ombuilds/NeetCode-250/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ombuilds/NeetCode-250/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ombuilds/NeetCode-250/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/ombuilds/NeetCode-250/tree/master/0647-palindromic-substrings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ombuilds/NeetCode-250/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ombuilds/NeetCode-250/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ombuilds/NeetCode-250/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ombuilds/NeetCode-250/tree/master/0509-fibonacci-number) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ombuilds/NeetCode-250/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ombuilds/NeetCode-250/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/ombuilds/NeetCode-250/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ombuilds/NeetCode-250/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/ombuilds/NeetCode-250/tree/master/1143-longest-common-subsequence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ombuilds/NeetCode-250/tree/master/2124-check-if-all-as-appears-before-all-bs) |
