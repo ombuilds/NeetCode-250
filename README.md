@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0931-minimum-falling-path-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/ombuilds/NeetCode-250/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/ombuilds/NeetCode-250/tree/master/1029-two-city-scheduling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ombuilds/NeetCode-250/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ombuilds/NeetCode-250/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ombuilds/NeetCode-250/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/ombuilds/NeetCode-250/tree/master/0846-hand-of-straights) |
 | [0976-largest-perimeter-triangle](https://github.com/ombuilds/NeetCode-250/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/ombuilds/NeetCode-250/tree/master/1029-two-city-scheduling) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ombuilds/NeetCode-250/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/ombuilds/NeetCode-250/tree/master/1710-maximum-units-on-a-truck) |
 ## Linked List
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/ombuilds/NeetCode-250/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ombuilds/NeetCode-250/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/ombuilds/NeetCode-250/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/ombuilds/NeetCode-250/tree/master/1029-two-city-scheduling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ombuilds/NeetCode-250/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1710-maximum-units-on-a-truck](https://github.com/ombuilds/NeetCode-250/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
@@ -305,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/ombuilds/NeetCode-250/tree/master/0976-largest-perimeter-triangle) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/ombuilds/NeetCode-250/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/ombuilds/NeetCode-250/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
