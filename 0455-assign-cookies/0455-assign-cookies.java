@@ -13,7 +13,7 @@ class Solution {
                 i++;
                 j++;
             }else{
-               j++; 
+                j++;
             }
         }
         return res;
