@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/ombuilds/NeetCode-250/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ombuilds/NeetCode-250/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/ombuilds/NeetCode-250/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/ombuilds/NeetCode-250/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ombuilds/NeetCode-250/tree/master/0931-minimum-falling-path-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/ombuilds/NeetCode-250/tree/master/0976-largest-perimeter-triangle) |
