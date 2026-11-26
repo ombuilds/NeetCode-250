@@ -8,7 +8,7 @@ class Solution {
                 truckSize-=box[0];
             }else if(truckSize < box[0] && truckSize!=0){
                 res+=truckSize*box[1];
-                truckSize=0;
+                return res;
                 
             }
             
