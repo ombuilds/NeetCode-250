@@ -5,15 +5,16 @@ class Solution {
             sum+=num;
         }
 
-        if(sum%2!=0) return false;
-        else{
-            return subsetSum(nums, sum/2);
+        if(sum%2!=0){
+            return false;
+        }else{
+            return subsetSum(nums,sum/2);
         }
     }
 
-    public boolean subsetSum(int[] nums, int sum){
+    public boolean subsetSum(int[] nums,int sum){
         int n=nums.length;
-        boolean [][]dp= new boolean[n+1][sum+1];
+        boolean[][] dp=new boolean[n+1][sum+1];
 
         for(int i=0;i<sum+1;i++){
             dp[0][i]=false;
@@ -28,7 +29,7 @@ class Solution {
                 if(nums[i-1]<=j){
                     dp[i][j]= dp[i-1][j-nums[i-1]] || dp[i-1][j];
                 }else{
-                    dp[i][j]= dp[i-1][j];
+                    dp[i][j]=dp[i-1][j];
                 }
             }
         }
