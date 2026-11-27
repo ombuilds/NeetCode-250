@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ombuilds/NeetCode-250/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ombuilds/NeetCode-250/tree/master/0605-can-place-flowers) |
+| [0740-delete-and-earn](https://github.com/ombuilds/NeetCode-250/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/ombuilds/NeetCode-250/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/ombuilds/NeetCode-250/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ombuilds/NeetCode-250/tree/master/0860-lemonade-change) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ombuilds/NeetCode-250/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ombuilds/NeetCode-250/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ombuilds/NeetCode-250/tree/master/0560-subarray-sum-equals-k) |
+| [0740-delete-and-earn](https://github.com/ombuilds/NeetCode-250/tree/master/0740-delete-and-earn) |
 | [0846-hand-of-straights](https://github.com/ombuilds/NeetCode-250/tree/master/0846-hand-of-straights) |
 ## Sorting
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ombuilds/NeetCode-250/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/ombuilds/NeetCode-250/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/ombuilds/NeetCode-250/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/ombuilds/NeetCode-250/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/ombuilds/NeetCode-250/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ombuilds/NeetCode-250/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ombuilds/NeetCode-250/tree/master/0918-maximum-sum-circular-subarray) |
