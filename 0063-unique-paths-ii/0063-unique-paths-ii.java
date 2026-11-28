@@ -1,12 +1,11 @@
 class Solution {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
-        if(obstacleGrid== null|| obstacleGrid[0][0]==1){
+        if(obstacleGrid==null || obstacleGrid[0][0]==1){
             return 0;
         }
         int m=obstacleGrid.length;
         int n=obstacleGrid[0].length;
-
-        int dp[][]= new int[m][n];
+        int[][] dp=new int[m][n];
 
         for(int i=0;i<m;i++){
             if(obstacleGrid[i][0]==1){
@@ -29,8 +28,8 @@ class Solution {
                 }else{
                     dp[i][j]=dp[i-1][j]+dp[i][j-1];
                 }
-            }    
-        }        
+            }
+        }
         return dp[m-1][n-1];
     }
 }
